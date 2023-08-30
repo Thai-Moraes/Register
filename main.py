@@ -1,4 +1,6 @@
-# Estava tendo aula de Banco de Dados então pensei que seria divertido tentar fazer algo do tipo em Python, um sistema de planilha no Python.
+# Estava tendo aula de Banco de Dados então pensei que seria divertido tentar fazer algo do tipo em Python, mas bem mais reduzido em capacidade.
+# TODO: Tornar o cadastro.txt como uma planilha de verdade, usando ASCII code
+# TODO: Criar um sistema de fato para ser acessado
 
 import re
 import fileinput
